@@ -1,0 +1,63 @@
+{
+    "storeInfo": {
+        "title": "TheOzyShopWatch",
+        "author": "TheOzymandias",
+        "description": "A collection of movies, anime, and more in both CIA format and H264.",
+        "file": "TheOzyShopWatch.unistore",
+        "url": "https://archive.org/download/theozystore/TheOzyShopWatch.unistore",
+        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
+        "sheet": "universal-db.t3x",
+        "bg_index": 0,
+        "bg_sheet": 0,
+        "revision": 0,  
+        "version": 3
+    }, 
+  "storeContent": [
+        {
+            "info": {
+                "title": "Shrek",
+                "author": "Dreamworks",
+                "description": "Shrek is love, Shrek is life",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2023-029-04 at 21:15 (UTC)",
+                "version": "v0.0.0"
+            }, 
+              "Shrek.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/p3logib9r1xswht/Shrek.cia?dl=0",
+                    "output": "sdmc:/shrek.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/shrek.cia"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Megamind 3D",
+                "author": "Dreamworks",
+                "description": "I love you, random 3DS nerd!",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+        "Shrek.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/qju61eldw0p7rtx/MegaMind%203D%20%5B000400000C363D00%5D.cia?dl=0",
+                    "output": "sdmc:/megamind.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/megamind.cia"
+                }
+                
+            ]
+      }
+  ]
+}
