@@ -1,0 +1,74 @@
+{
+    "storeInfo": {
+        "title": "TheOzyShop",
+        "author": "TheOzymandias",
+        "description": "A collection of rare/underground roms and homebrew, along with movies meant for Video Player for 3DS.",
+        "file": "TheOzyShopMain.unistore",
+        "url": "https://archive.org/download/the-ozy-shop-main/TheOzyShopMain.unistore",
+        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
+        "sheet": "universal-db.t3x",
+        "bg_index": 0,
+        "bg_sheet": 0,
+        "revision": 5,  
+        "version": 3
+    },
+    "storeContent": [
+        {
+            "info": {
+                "title": "TheOzyShop - Homebrew",
+                "author": "TheOzymandias",
+                "description": "TheOzymandias’ unistore of homebrew, none of which is found in the default Universal-Updater.",
+                "category": ["utilities"],
+                "console": ["3DS"],
+                "icon_url":"https://archive.org/download/theozystore/eDCP/McDonaldseCDPcartridge.png",
+                "last_updated": "2023-029-04 at 21:15 (UTC)",
+                "version": "N/A"
+            },
+            "TheOzyShop - Homebrew Unistore": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/the-ozy-shop-main/TheOzyShopHomebrew.unistore",
+                    "output": "TheOzyShopHomebrew.unistore"
+                }
+            ]
+        },
+{
+            "info": {
+                "title": "TheOzyShop - Watch",
+                "author": "TheOzymandias",
+                "description": "A collection of movies, anime, and more meant to be watched with Video Player for 3DS.",
+                "category": ["utilities"],
+                "console": ["3DS"],
+                "icon_url":"https://archive.org/download/theozystore/eDCP/McDonaldseCDPcartridge.png",
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+            "TheOzyShop - Watch Unistore": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/the-ozy-shop-main/TheOzyShopWatch.unistore",
+                    "output": "TheOzyShopWatch.unistore"
+                }
+            ]
+        },
+{
+            "info": {
+                "title": "TheOzyShop - ROMs",
+                "author": "TheOzymandias",
+                "description": "ROMs of rare games and ROM hacks.",
+                "category": ["utilities"],
+                "console": ["3DS"],
+                "icon_url":"https://archive.org/download/theozystore/chatgpt3ds/chatgpt-icon.png",
+                "last_updated": "2023-030-04 at 11:37(UTC)",
+                "version": "v0.0.0"
+            },
+            "TheOzyShop - ROMs Unistore": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/the-ozy-shop-main/TheOzyShopROMs.unistore",
+                    "output": "TheOzyShopROMs.unistore"
+                }
+            ]
+        }
+    ]
+}
