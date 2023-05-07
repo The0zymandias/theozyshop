@@ -4,12 +4,12 @@
         "author": "TheOzymandias",
         "description": "A collection of movies, anime, and more in both CIA format and H264.",
         "file": "TheOzyShopWatch.unistore",
-        "url": "https://archive.org/download/theozystore/TheOzyShopWatch.unistore",
+        "url": "https://github.com",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 0,  
+        "revision": 1,  
         "version": 3
     }, 
   "storeContent": [
@@ -32,8 +32,11 @@
                 {
                   "type": "installCia",
                   "file": "sdmc:/shrek.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/shrek.cia"
                 }
-                
             ]
       }, 
       {
@@ -54,6 +57,10 @@
                 },
                 {
                   "type": "installCia",
+                  "file": "sdmc:/megamind.cia"
+                },
+                {
+                  "type": "deleteFile",
                   "file": "sdmc:/megamind.cia"
                 }
                 
