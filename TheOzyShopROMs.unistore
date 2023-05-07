@@ -1,0 +1,67 @@
+{
+    "storeInfo": {
+        "title": "TheOzyShopROMs",
+        "author": "TheOzymandias",
+        "description": "A collection of rare/underground roms and some rom hacks.",
+        "file": "TheOzyShopROMs.unistore",
+        "url": "https://archive.org/download/theozystore/TheOzyShopROMs.unistore",
+        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
+        "sheet": "universal-db.t3x",
+        "bg_index": 0,
+        "bg_sheet": 0,
+        "revision": 0,  
+        "version": 3
+    },
+  "storeContent": [
+        {
+            "info": {
+                "title": "McDonald's eCDP",
+                "author": "Unknown",
+                "description": "A DS game once used to train McDonald's Employees.",
+                "category": ["games"],
+                "console": ["3DS"],
+                "last_updated": "2023-029-04 at 21:15 (UTC)",
+                "version": "v0.0.0"
+            },
+            "McDonald's eCDP(ENG).nds": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozystore/eDCP/McDonald%27seCDP%28ENG%29.nds",
+                    "output": "%NDS%/McDonald'seCDP(ENG).nds"
+                }
+            ],
+            "McDonald's eCDP(JP).nds": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozystore/eDCP/McDonald%27seCDP%28JP%29.nds",
+                    "output": "%NDS%/McDonald'seCDP(JP).nds"
+                }
+            ]
+        },
+{
+            "info": {
+                "title": "McDonald's eCDP Enabler",
+                "author": "Unknown",
+                "description": "Sets both passwords to 482500.",
+                "category": ["utilities"],
+                "console": ["3DS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+            "eCDP Enabler(ENG).nds": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozystore/eDCPEnabler/McDonald%27seDCP%28ENG%29.sav",
+                    "output": "%NDS%/McDonald'seCDP(ENG).nds"
+                }
+            ],
+            "eCDP Enabler(JP).nds": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozystore/eDCPEnabler/McDonald%27seDCP%28JP%29.sav",
+                    "output": "%NDS%/McDonald'seCDP(JP).nds"
+                }
+            ]
+        }
+    ]
+}
