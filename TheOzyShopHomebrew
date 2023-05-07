@@ -1,0 +1,72 @@
+    "storeInfo": {
+        "title": "TheOzyShopHomebrew",
+        "author": "TheOzymandias",
+        "description": "A collection of homebrew not included in Universal-Updater by default.",
+        "file": "TheOzyShopHomebrew.unistore",
+        "url": "https://archive.org/download/the-ozy-store-main/TheOzyShopHomebrew.unistore",
+        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
+        "sheet": "universal-db.t3x",
+        "bg_index": 0,
+        "bg_sheet": 0,
+        "revision": 2,  
+        "version": 3
+        },
+  "storeContent": [
+        {
+            "info": {
+                "title": "ChatGPT for 3DS",
+                "author": "Unknown",
+                "description": "Google how to get your API keys from your OpenAI account.",
+                "category": ["utilities"],
+                "console": ["3DS"],
+                "last_updated": "2023-029-04 at 21:15 (UTC)",
+                "version": "v0.0.0"
+            },
+            "ChatGPT3DS": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/sw15oj0gnbs0hja/ChatGPT3DS.7z?dl=0",
+                    "output": "%3DSX%/ChatGPT.7z"
+                }, 
+                {
+                    "type": "extractFile",
+                    "file": "%3DSX%/ChatGPT.7z",
+                    "input": "ChatGPT3DS.3dsx",
+                    "output": "%3DSX%/ChatGPT3DS.3dsx"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "%3DSX%/ChatGPT.7z"
+                }
+            ]
+        },
+{
+            "info": {
+                "title": "Flite3ds",
+                "author": "Unknown",
+                "description": "A simple text-to-speech demo.",
+                "category": ["utilities"],
+                "console": ["3DS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v1.5.0"
+            },
+            "Flite3ds-1.5": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/v1xbeyha0xzvziy/Flite3ds-1.5.7z?dl=0",
+                    "output": "%3DSX%/Flite3ds.7z"
+                }, 
+                {
+                    "type": "extractFile",
+                    "file": "%3DSX%/Flite3ds.7z",
+                    "input": "",
+                    "output": "%3DSX%/Flite3ds"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "%3DSX%/Flite3ds.7z"
+                }
+            ]
+        }
+    ]
+}
