@@ -62,6 +62,40 @@
                     "output": "%NDS%/McDonald'seCDP(JP).nds"
                 }
             ]
+        },
+{
+            "info": {
+                "title": "Pokemon Conquest",
+                "author": "Unknown",
+                "description": "An underground pokemon crossover.",
+                "category": ["games"],
+                "console": ["3DS", "NDS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+            "Pokemon Conquest(ENG).nds": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozystore/eDCPEnabler/McDonald%27seDCP%28ENG%29.sav",
+                    "output": "%NDS%/Pokemon Conquest.7z"
+                },
+                {
+                    "type": "extractFile",
+                    "file": "%NDS%/Pokemon Conquest.7z",
+                    "input": "Pokemon Conquest.nds",
+                    "output": "%NDS%/Pokemon Conquest.7z"
+                },
+                { 
+                    "type": "deleteFile",
+                    
+          ],
+            "eCDP Enabler(JP).nds": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozystore/eDCPEnabler/McDonald%27seDCP%28JP%29.sav",
+                    "output": "%NDS%/McDonald'seCDP(JP).nds"
+                }
+            ]
         }
     ]
 }
