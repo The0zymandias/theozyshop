@@ -3,7 +3,7 @@
         "author": "TheOzymandias",
         "description": "A collection of homebrew not included in Universal-Updater by default.",
         "file": "TheOzyShopHomebrew.unistore",
-        "url": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopHomebrew.unistore",
+        "url": "https://github.com/The0zymandias/theozyshop/raw/main/TheOzyShopHomebrew.unistore",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 0,
