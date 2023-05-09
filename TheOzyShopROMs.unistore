@@ -87,15 +87,8 @@
                 },
                 { 
                     "type": "deleteFile",
-                    
-          ],
-            "eCDP Enabler(JP).nds": [
-                {
-                    "type": "downloadFile",
-                    "file": "https://archive.org/download/theozystore/eDCPEnabler/McDonald%27seDCP%28JP%29.sav",
-                    "output": "%NDS%/McDonald'seCDP(JP).nds"
-                }
-            ]
-        }
+                    "file": "%NDS%/Pokemon Conquest.7z"
+                }      
+          ]
     ]
 }
