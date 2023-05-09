@@ -27,7 +27,7 @@
             "TheOzyShop - Homebrew Unistore": [
                 {
                     "type": "downloadFile",
-                    "file": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopHomebrew.unistore",
+                    "file": "https://github.com/The0zymandias/theozyshop/raw/main/TheOzyShopHomebrew.unistore",
                     "output": "TheOzyShopHomebrew.unistore"
                 }
             ]
