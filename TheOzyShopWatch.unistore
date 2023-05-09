@@ -26,7 +26,7 @@
               "2D 400px.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/p3logib9r1xswht/Shrek.cia?dl=0",
+                    "file": "https://archive.org/download/theozyshop/Watch/discordmod1.cia",
                     "output": "sdmc:/shrek.cia"
                 },
                 {
@@ -41,7 +41,7 @@
       }, 
       {
         "info": {
-                "title": "Megamind 3D",
+                "title": "Megamind",
                 "author": "Dreamworks",
                 "description": "I love you, random 3DS nerd!",
                 "category": ["movie"],
@@ -52,7 +52,7 @@
         "3D 400px.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/qju61eldw0p7rtx/MegaMind%203D%20%5B000400000C363D00%5D.cia?dl=0",
+                    "file": "https://archive.org/download/theozyshop/Watch/chicago.cia",
                     "output": "sdmc:/megamind.cia"
                 },
                 {
@@ -62,6 +62,33 @@
                 {
                   "type": "deleteFile",
                   "file": "sdmc:/megamind.cia"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "LEGO Movie, The",
+                "author": "Warner Bros.",
+                "description": "When the Kragle",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+        "2D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/IMTHEMOTHERFFINGBATMAN.cia",
+                    "output": "sdmc:/lego.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/lego.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/lego.cia"
                 }
                 
             ]
