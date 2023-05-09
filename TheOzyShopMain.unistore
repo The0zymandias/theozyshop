@@ -65,7 +65,7 @@
             "TheOzyShop - ROMs Unistore": [
                 {
                     "type": "downloadFile",
-                    "file": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopROMs.unistore",
+                    "file": "https://github.com/The0zymandias/theozyshop/raw/main/TheOzyShopROMs.unistore",
                     "output": "TheOzyShopROMs.unistore"
                 }
             ]
