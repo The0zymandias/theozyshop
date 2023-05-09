@@ -46,7 +46,7 @@
             "TheOzyShop - Watch Unistore": [
                 {
                     "type": "downloadFile",
-                    "file": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopWatch.unistore",
+                    "file": "https://raw.githubusercontent.com/The0zymandias/theozyshop/main/TheOzyShopWatch.unistore",
                     "output": "TheOzyShopWatch.unistore"
                 }
             ]
