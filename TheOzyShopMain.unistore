@@ -27,7 +27,7 @@
             "TheOzyShop - Homebrew Unistore": [
                 {
                     "type": "downloadFile",
-                    "file": "https://archive.org/download/the-ozy-shop-main/TheOzyShopHomebrew.unistore",
+                    "file": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopHomebrew.unistore",
                     "output": "TheOzyShopHomebrew.unistore"
                 }
             ]
@@ -46,7 +46,7 @@
             "TheOzyShop - Watch Unistore": [
                 {
                     "type": "downloadFile",
-                    "file": "https://archive.org/download/the-ozy-shop-main/TheOzyShopWatch.unistore",
+                    "file": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopWatch.unistore",
                     "output": "TheOzyShopWatch.unistore"
                 }
             ]
@@ -65,7 +65,7 @@
             "TheOzyShop - ROMs Unistore": [
                 {
                     "type": "downloadFile",
-                    "file": "https://archive.org/download/the-ozy-shop-main/TheOzyShopROMs.unistore",
+                    "file": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/The0zymandias/theozyshop/blob/main/TheOzyShopROMs.unistore",
                     "output": "TheOzyShopROMs.unistore"
                 }
             ]
