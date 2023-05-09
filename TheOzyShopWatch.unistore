@@ -2,7 +2,7 @@
     "storeInfo": {
         "title": "TheOzyShopWatch",
         "author": "TheOzymandias",
-        "description": "A collection of movies, anime, and more in both CIA format and H264.",
+        "description": "A collection of movies, anime, and more in various formats.",
         "file": "TheOzyShopWatch.unistore",
         "url": "https://github.com",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
@@ -23,7 +23,7 @@
                 "last_updated": "2023-029-04 at 21:15 (UTC)",
                 "version": "v0.0.0"
             }, 
-              "Shrek.cia": [
+              "2D 400px.cia": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/p3logib9r1xswht/Shrek.cia?dl=0",
@@ -49,7 +49,7 @@
                 "last_updated": "2023-030-04 at 11:26 (UTC)",
                 "version": "v0.0.0"
             },
-        "Shrek.cia": [
+        "3D 400px.cia": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/qju61eldw0p7rtx/MegaMind%203D%20%5B000400000C363D00%5D.cia?dl=0",
