@@ -2,14 +2,14 @@
     "storeInfo": {
         "title": "TheOzyShop",
         "author": "TheOzymandias",
-        "description": "A collection of rare/underground roms and homebrew, along with movies meant for Video Player for 3DS.",
+        "description": "A collection of rare/underground roms and homebrew, along with movies, anime, and more.",
         "file": "TheOzyShopMain.unistore",
         "url": "https://github.com/The0zymandias/theozyshop/raw/main/TheOzyShopMain.unistore",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 5,  
+        "revision": 6,  
         "version": 3
     },
     "storeContent": [
@@ -36,7 +36,7 @@
             "info": {
                 "title": "TheOzyShop - Watch",
                 "author": "TheOzymandias",
-                "description": "A collection of movies, anime, and more meant to be watched with Video Player for 3DS.",
+                "description": "A collection of movies, anime, and more plus the utilities used to watch them.",
                 "category": ["utilities"],
                 "console": ["3DS"],
                 "icon_url":"https://archive.org/download/theozystore/eDCP/McDonaldseCDPcartridge.png",
