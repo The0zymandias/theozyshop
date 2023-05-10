@@ -92,6 +92,33 @@
                 }
                 
             ]
+      }, 
+      {
+        "info": {
+                "title": "Bee Movie, The",
+                "author": "Paramount Pictures",
+                "description": "BEEcause why not",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+        "2D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/yourhandsticky.cia",
+                    "output": "sdmc:/bee.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/bee.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/bee.cia"
+                }
+                
+            ]
       }
   ]
 }
