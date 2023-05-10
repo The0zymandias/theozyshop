@@ -9,7 +9,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 0,  
+        "revision": 1,  
         "version": 3
     },
   "storeContent": [
@@ -76,7 +76,7 @@
             "Pokemon Conquest(ENG).nds": [
                 {
                     "type": "downloadFile",
-                    "file": "https://archive.org/download/theozystore/eDCPEnabler/McDonald%27seDCP%28ENG%29.sav",
+                    "file": "https://archive.org/download/theozyshop/RandomOxMachine/MinecraftBunnyPlusMarioAndLuigi.7z",
                     "output": "%NDS%/Pokemon Conquest.7z"
                 },
                 {
