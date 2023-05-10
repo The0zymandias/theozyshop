@@ -119,6 +119,25 @@
                 }
                 
             ]
+      }, 
+      {
+        "info": {
+                "title": "Madagascar 3 - Europe's Most Wanted",
+                "author": "Dreamworks",
+                "description": "That's Bolshevik!",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2023-030-04 at 11:26 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/yourhandsticky.cia",
+                    "output": "sdmc:/madagascar3.moflex"
+                }
+                
+            ]
       }
   ]
 }
