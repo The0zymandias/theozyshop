@@ -5,7 +5,6 @@
         "description": "A collection of movies, anime, and more in various formats.",
         "file": "TheOzyShopWatch.unistore",
         "url": "https://github.com/The0zymandias/theozyshop/raw/main/TheOzyShopWatch.unistore",
-        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
