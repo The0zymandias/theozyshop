@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 10,  
+        "revision": 11,  
         "version": 3
     }, 
   "storeContent": [
@@ -189,7 +189,7 @@
         "3D 400px.cia": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent/s/axaop8242uwtorv/Leagueofvillians.cia?dl=0",
+                    "file": "https://dl.dropboxusercontent.com/s/axaop8242uwtorv/Leagueofvillians.cia?dl=0",
                     "output": "sdmc:/bad.cia"
                 }, 
                 {
