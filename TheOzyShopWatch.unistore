@@ -133,7 +133,45 @@
                 {
                     "type": "downloadFile",
                     "file": "https://archive.org/download/theozyshop/Watch/rasputin.moflex",
-                    "output": "sdmc:/madagascar3.moflex"
+                    "output": "sdmc:/Madagascar 3.moflex"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Sonic the Hedgehog (2020)",
+                "author": "Dreamworks",
+                "description": "Gotta Go Fast!",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:11 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/Sonic%20The%20Hedgehog%20%283D%20conversion%29%20%282020%29.moflex",
+                    "output": "sdmc:/Sonic the Hedgehog.moflex"
+                }
+                
+            ]
+      },
+      {
+        "info": {
+                "title": "Sonic the Hedgehog 2 (2022)",
+                "author": "Dreamworks",
+                "description": "Do I look like I need your power?",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:11 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/Sonic%20The%20Hedgehog%202%20%283D%20conversion%29%20%282022%29.moflex",
+                    "output": "sdmc:/Sonic the Hedgehog 2.moflex"
                 }
                 
             ]
