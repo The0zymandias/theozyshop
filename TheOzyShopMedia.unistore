@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 13,  
+        "revision": 14,  
         "version": 3
     }, 
   "storeContent": [
@@ -236,7 +236,7 @@
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/Lovejoy_-_Wake_Up_Its_Over_Full_%28getmp3.pro%29.mp3?dl=0",
-                    "output": "sdmc:/music/Wake Up & Its Over (Full EP) - Lovejoy"
+                    "output": "sdmc:/music/Wake Up & Its Over (Full EP) - Lovejoy.mp3"
                 }
                 
             ]
