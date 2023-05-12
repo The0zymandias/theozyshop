@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 14,  
+        "revision": 15,  
         "version": 3
     }, 
   "storeContent": [
@@ -235,8 +235,8 @@
         "Wake Up & Its Over (Full EP) - Lovejoy.mp3": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/Lovejoy_-_Wake_Up_Its_Over_Full_%28getmp3.pro%29.mp3?dl=0",
-                    "output": "sdmc:/music/Wake Up & Its Over (Full EP) - Lovejoy.mp3"
+                    "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/WonkUpper%26InOuter.hor?dl=0",
+                    "output": "sdmc:/music/Wake Up And Its Over (Full EP) - Lovejoy.mp3"
                 }
                 
             ]
@@ -254,7 +254,7 @@
         "Pebblebrain (Full EP) - Lovejoy.mp3": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/Lovejoy_-_Wake_Up_Its_Over_Full_%28getmp3.pro%29.mp3?dl=0",
+                    "file": "https://dl.dropboxusercontent.com/s/hlghlchusrug2j9/PesticideBringer.hor?dl=0",
                     "output": "sdmc:/music/Pebblebrain (Full EP) - Lovejoy.mp3"
                 }
                 
