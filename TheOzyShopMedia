@@ -1,0 +1,245 @@
+{
+    "storeInfo": {
+        "title": "TheOzyShopMedia",
+        "author": "TheOzymandias",
+        "description": "A collection of movies, anime, music, and more in various formats.",
+        "file": "TheOzyShopMedia.unistore",
+        "url": "https://github.com/The0zymandias/theozyshop/raw/main/TheOzyShopMedia.unistore",
+        "sheet": "universal-db.t3x",
+        "bg_index": 0,
+        "bg_sheet": 0,
+        "revision": 12,  
+        "version": 3
+    }, 
+  "storeContent": [
+        {
+            "info": {
+                "title": "Shrek",
+                "author": "Dreamworks, ported by hShop",
+                "description": "Shrek is love, Shrek is life",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:03 (UTC)",
+                "version": "v0.0.0"
+            }, 
+              "2D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/discordmod1.cia",
+                    "output": "sdmc:/shrek.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/shrek.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/shrek.cia"
+                }
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Megamind",
+                "author": "Dreamworks",
+                "description": "I love you, random 3DS nerd!",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:04 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/chicago.cia",
+                    "output": "sdmc:/megamind.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/megamind.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/megamind.cia"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "LEGO Movie, The",
+                "author": "Warner Bros.",
+                "description": "When the Kragle",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:06 (UTC)",
+                "version": "v0.0.0"
+            },
+        "2D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/IMTHEMOTHERFFINGBATMAN.cia",
+                    "output": "sdmc:/lego.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/lego.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/lego.cia"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Bee Movie, The",
+                "author": "Paramount Pictures",
+                "description": "BEEcause why not",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:08 (UTC)",
+                "version": "v0.0.0"
+            },
+        "2D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/yourhandsticky.cia",
+                    "output": "sdmc:/bee.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/bee.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/bee.cia"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Madagascar 3 - Europe's Most Wanted",
+                "author": "Dreamworks",
+                "description": "That's Bolshevik!",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:05 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/rasputin.moflex",
+                    "output": "sdmc:/Madagascar 3.moflex"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Sonic the Hedgehog (2020)",
+                "author": "Dreamworks",
+                "description": "Gotta Go Fast!",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:02 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/Sonic%20The%20Hedgehog%20%283D%20conversion%29%20%282020%29.moflex",
+                    "output": "sdmc:/Sonic the Hedgehog.moflex"
+                }
+                
+            ]
+      },
+      {
+        "info": {
+                "title": "Sonic the Hedgehog 2 (2022)",
+                "author": "Dreamworks",
+                "description": "Do I look like I need your power?",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:01 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://archive.org/download/theozyshop/Watch/Sonic%20The%20Hedgehog%202%20%283D%20conversion%29%20%282022%29.moflex",
+                    "output": "sdmc:/Sonic the Hedgehog 2.moflex"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "The Bad Guys",
+                "author": "Dreamworks",
+                "description": "Cant stop wont stop",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:09 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/axaop8242uwtorv/Leagueofvillians.cia?dl=0",
+                    "output": "sdmc:/bad.cia"
+                }, 
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/bad.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/bad.cia"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Encanto",
+                "author": "Disney",
+                "description": "La Familia Madregal",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:07 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.moflex": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/hokukj07q4ul1eu/mommytheceilingfanfellagain.moflex?dl=0",
+                    "output": "sdmc:/Encanto.moflex"
+                }
+                
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Wake Up & Its Over (Full EP)",
+                "author": "Lovejoy",
+                "description": "Whats this, the consequences of my actions?",
+                "category": ["music"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 10:01 (UTC)",
+                "version": "v0.0.0"
+            },
+        "Wake Up & Its Over (Full EP) - Lovejoy.mp3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/Lovejoy_-_Wake_Up_Its_Over_Full_%28getmp3.pro%29.mp3?dl=0",
+                    "output": "sdmc:/music/Wake Up & Its Over (Full EP) - Lovejoy"
+                }
+                
+            ]
+      }
+  ]
+}
