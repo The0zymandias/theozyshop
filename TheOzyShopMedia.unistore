@@ -259,6 +259,24 @@
                 }
                 
             ]
+      },
+      {
+        "info": {
+                "title": "Your City Gave Me Asthma (Full EP)",
+                "author": "Wilbur Soot",
+                "description": "Shout at the walls, cause they don't fucking love you.",
+                "category": ["music"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 10:02 (UTC)",
+                "version": "v0.0.0"
+            },
+        "Your City Gave me Asthma (Full EP) - Wilbur Soot.mp3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/Lovejoy_-_Wake_Up_Its_Over_Full_%28getmp3.pro%29.mp3?dl=0",
+                    "output": "sdmc:/music/Your City Gave Me Asthma (Full EP) - Wilbur Soot.mp3"
+                }
+            ]
       }
   ]
 }
