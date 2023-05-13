@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 16,  
+        "revision": 17,  
         "version": 3
     }, 
   "storeContent": [
@@ -36,6 +36,33 @@
                   "type": "deleteFile",
                   "file": "sdmc:/shrek.cia"
                 }
+            ]
+      }, 
+      {
+        "info": {
+                "title": "Cars Triology, The",
+                "author": "Pixar",
+                "description": "I am speed.",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 11:08 (UTC)",
+                "version": "v0.0.0"
+            },
+        "3D 400px.cia": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://www.mediafire.com/file/155wddgvzxzfbon/Cars+Collection+3D+%5B000400000C13F800%5D.zip/file?dkey=zmgfsq9wgny&r=1125",
+                    "output": "sdmc:/car.cia"
+                },
+                {
+                  "type": "installCia",
+                  "file": "sdmc:/car.cia"
+                },
+                {
+                  "type": "deleteFile",
+                  "file": "sdmc:/car.cia"
+                }
+                
             ]
       }, 
       {
