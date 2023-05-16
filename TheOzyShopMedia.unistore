@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 20,  
+        "revision": 21,  
         "version": 3
     }, 
   "storeContent": [
@@ -41,7 +41,7 @@
       {
         "info": {
                 "title": "Cyberpunk Edgerunners Amine",
-                "author": "Studio Trigger",
+                "author": "Studio Trigger, ported by Oakley",
                 "description": "You fell over the edge, punk. (TRIGGER WARNING)",
                 "category": ["amine"],
                 "console": ["3DS"],
@@ -59,7 +59,7 @@
         "Ep2 Like A Boy - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/ssk9sr138bnbje0/1%20-%20PaintingBlackState.hor?dl=0",
+                    "file": "https://dl.dropboxusercontent.com/s/tk2l4ozxf65r5tn/CryEvening2.cp?dl=0",
                     "output": "sdmc:/_mp4/2 - Like A Boy.mp4"
                 }
                 
@@ -67,7 +67,7 @@
          "Ep3 Smooth Criminal - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/2tvrxishq0gqe05/2%20-%20ChristMeetsWestYourLife.hor?dl=0",
+                    "file": "https://dl.dropboxusercontent.com/s/mao9er2tzayx3f6/CryEvening3.cp?dl=0",
                     "output": "sdmc:/_mp4/3 - Smooth Criminal.mp4"
                 }
                 
@@ -75,7 +75,7 @@
          "Ep4 Lucky You - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/z2wz47lhzr3robl/3%20-%20Citizenship.hor?dl=0",
+                    "file": "https://dl.dropboxusercontent.com/s/gbhvh7p4dy96y6o/CryEvening4.cp?dl=0",
                     "output": "sdmc:/_mp4/4 - Lucky You.mp4"
                 }
                 
@@ -83,24 +83,48 @@
        "Ep5 All Eyez On Me - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/amgg2r3fg4z5apl/4%20-%20War.hor?dl=0",
-                    "output": "sdmc:/music/Wake Up And Its Over/4 - Warsaw.mp3"
+                    "file": "https://dl.dropboxusercontent.com/s/8a9iwywuy7tuh53/CryEvening5.cp?dl=0",
+                    "output": "sdmc:/_mp4/5 - All Eyez On Me.mp4"
                 }
                 
             ],
      "Ep6 Girl On Fire - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/ypxr8f5v8lbatq2/5%20-%20Sucker.hor?dl=0",
-                    "output": "sdmc:/music/Wake Up And Its Over/5 - Scum.mp3"
+                    "file": "https://dl.dropboxusercontent.com/s/ox18n1qryz2nt3u/CryEvening6.cp?dl=0",
+                    "output": "sdmc:/_mp4/6 - Girl On Fire.mp4"
                 }
                 
             ],
       "Ep7 Stronger - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dl.dropboxusercontent.com/s/7o2k7pc35u6orm7/6%20-%20ImGettingHighSomewhere.hor?dl=0",
-                    "output": "sdmc:/music/Wake Up And Its Over/6 - Its Golden Hour Shomewhere.mp3"
+                    "file": "https://dl.dropboxusercontent.com/s/ebyqz3yx3tov5w4/CryEvening7.cp?dl=0",
+                    "output": "sdmc:/_mp4/7 - Stronger.mp4"
+                }
+                
+            ],
+ "Ep8 Stay - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/chwamrifkxqd4sj/CryEvening8.cp?dl=0",
+                    "output": "sdmc:/_mp4/8 - Stay.mp4"
+                }
+                
+            ],
+     "Ep9 Humanity - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/fiqdrms5i94vjsp/CryEvening9.cp?dl=0",
+                    "output": "sdmc:/_mp4/9 - Humanity.mp4"
+                }
+                
+            ],
+      "Ep10 My Moon My Man - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/8oiwwg019faxam3/CryEvening10.cp?dl=0",
+                    "output": "sdmc:/_mp4/10 - My Moon My Man.mp4"
                 }
                 
             ]
@@ -108,7 +132,7 @@
       {
         "info": {
                 "title": "Pebblebrain (Full EP)",
-                "author": "Lovejoy",
+                "author": "Lovejoy, ported by TheOzymandias",
                 "description": "Youre just scared of the future.",
                 "category": ["music"],
                 "console": ["3DS"],
@@ -127,7 +151,7 @@
       {
         "info": {
                 "title": "Super Mario Movie, The",
-                "author": "Illumination",
+                "author": "Illumination/Universal, ported by MagicMarshadow",
                 "description": "Lets A Go!",
                 "category": ["movie"],
                 "console": ["3DS"],
