@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 18,  
+        "revision": 19,  
         "version": 3
     }, 
   "storeContent": [
@@ -37,7 +37,93 @@
                   "file": "sdmc:/shrek.cia"
                 }
             ]
+      },
+      {
+        "info": {
+                "title": "Cyberpunk Edgerunners Amine",
+                "author": "Studio Trigger",
+                "description": "You fell over the edge, punk.",
+                "category": ["amine"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 09:01 (UTC)",
+                "version": "v0.0.0"
+            },
+        "Let You Down Ep1 - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/WonkUpper%26InOuter.hor?dl=0",
+                    "output": "sdmc:/_mp4/1 - Let You Down.mp4"
+                }
+                
+            ], 
+        "Like A Boy Ep2 - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/ssk9sr138bnbje0/1%20-%20PaintingBlackState.hor?dl=0",
+                    "output": "sdmc:/_mp4/2 - Like A Boy.mp4"
+                }
+                
+            ],
+         "Smooth Criminal Ep3 - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/2tvrxishq0gqe05/2%20-%20ChristMeetsWestYourLife.hor?dl=0",
+                    "output": "sdmc:/_mp4/3 - Smooth Criminal.mp4"
+                }
+                
+            ],
+         "Lucky You Ep4 - 2D 800px.mp4": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/z2wz47lhzr3robl/3%20-%20Citizenship.hor?dl=0",
+                    "output": "sdmc:/_mp4/4 - Lucky You.mp4"
+                }
+                
+            ],
+       "4 - Warsaw.mp3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/amgg2r3fg4z5apl/4%20-%20War.hor?dl=0",
+                    "output": "sdmc:/music/Wake Up And Its Over/4 - Warsaw.mp3"
+                }
+                
+            ],
+     "5 - Scum.mp3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/ypxr8f5v8lbatq2/5%20-%20Sucker.hor?dl=0",
+                    "output": "sdmc:/music/Wake Up And Its Over/5 - Scum.mp3"
+                }
+                
+            ],
+      "6 - Its Golden Hour Somewhere.mp3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/7o2k7pc35u6orm7/6%20-%20ImGettingHighSomewhere.hor?dl=0",
+                    "output": "sdmc:/music/Wake Up And Its Over/6 - Its Golden Hour Shomewhere.mp3"
+                }
+                
+            ]
       }, 
+      {
+        "info": {
+                "title": "Pebblebrain (Full EP)",
+                "author": "Lovejoy",
+                "description": "Youre just scared of the future.",
+                "category": ["music"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 10:03 (UTC)",
+                "version": "v0.0.0"
+            },
+        "Pebblebrain (Full EP) - Lovejoy.mp3": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://dl.dropboxusercontent.com/s/hlghlchusrug2j9/PesticideBringer.hor?dl=0",
+                    "output": "sdmc:/music/Pebblebrain (Full EP) - Lovejoy.mp3"
+                }
+                
+            ]
+      },
       {
         "info": {
                 "title": "Super Mario Movie, The",
