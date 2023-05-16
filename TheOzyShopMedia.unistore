@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 19,  
+        "revision": 20,  
         "version": 3
     }, 
   "storeContent": [
@@ -48,7 +48,7 @@
                 "last_updated": "2001-001-01 at 09:01 (UTC)",
                 "version": "v0.0.0"
             },
-        "Let You Down Ep1 - 2D 800px.mp4": [
+        "Ep1 Let You Down - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/90nxjwv8d2cgf80/CryEvening1.cp?dl=0",
@@ -56,7 +56,7 @@
                 }
                 
             ], 
-        "Like A Boy Ep2 - 2D 800px.mp4": [
+        "Ep2 Like A Boy - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/ssk9sr138bnbje0/1%20-%20PaintingBlackState.hor?dl=0",
@@ -64,7 +64,7 @@
                 }
                 
             ],
-         "Smooth Criminal Ep3 - 2D 800px.mp4": [
+         "Ep3 Smooth Criminal - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/2tvrxishq0gqe05/2%20-%20ChristMeetsWestYourLife.hor?dl=0",
@@ -72,7 +72,7 @@
                 }
                 
             ],
-         "Lucky You Ep4 - 2D 800px.mp4": [
+         "Ep4 Lucky You - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/z2wz47lhzr3robl/3%20-%20Citizenship.hor?dl=0",
@@ -80,7 +80,7 @@
                 }
                 
             ],
-       "4 - Warsaw.mp3": [
+       "Ep5 All Eyez On Me - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/amgg2r3fg4z5apl/4%20-%20War.hor?dl=0",
@@ -88,7 +88,7 @@
                 }
                 
             ],
-     "5 - Scum.mp3": [
+     "Ep6 Girl On Fire - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/ypxr8f5v8lbatq2/5%20-%20Sucker.hor?dl=0",
@@ -96,7 +96,7 @@
                 }
                 
             ],
-      "6 - Its Golden Hour Somewhere.mp3": [
+      "Ep7 Stronger - 2D 800px.mp4": [
                 {
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/7o2k7pc35u6orm7/6%20-%20ImGettingHighSomewhere.hor?dl=0",
