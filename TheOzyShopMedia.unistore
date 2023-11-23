@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 22,  
+        "revision": 23,  
         "version": 3
     }, 
   "storeContent": [
@@ -488,6 +488,24 @@
                     "type": "downloadFile",
                     "file": "https://dl.dropboxusercontent.com/s/t896c77g913cq3f/Lovejoy_-_Wake_Up_Its_Over_Full_%28getmp3.pro%29.mp3?dl=0",
                     "output": "sdmc:/music/Your City Gave Me Asthma (Full EP) - Wilbur Soot.mp3"
+                }
+            ]
+      },
+      {
+            "info": {
+                "title": "Multi-Pokemon Framework Plugin",
+                "author": "semaj14",
+                "description": "Gotta catch em all",
+                "category": ["movie"],
+                "console": ["3DS"],
+                "last_updated": "2001-001-01 at 12:01 (UTC)",
+                "version": "v0.0.0"
+            }, 
+              "zipTest": [
+                {
+                    "type": "downloadFile",
+                    "file": "https://github.com/semaj14/Multi-PokemonFramework/releases/download/v1.0.4/Release.zip",
+                    "output": "sdmc:/framework.zip"
                 }
             ]
       }
