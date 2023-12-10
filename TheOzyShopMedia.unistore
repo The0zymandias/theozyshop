@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 23,  
+        "revision": 24,  
         "version": 3
     }, 
   "storeContent": [
@@ -504,8 +504,8 @@
               "zipTest": [
                 {
                     "type": "downloadFile",
-                    "file": "https://github.com/semaj14/Multi-PokemonFramework/releases/download/v1.0.4/Release.zip",
-                    "output": "sdmc:/framework.zip"
+                    "file": "https://dlhb.gamebrew.org/3dshomebrews/sunshell.7z",
+                    "output": "sdmc:/sunshell.7z"
                 }
             ]
       }
