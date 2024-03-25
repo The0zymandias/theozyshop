@@ -8,7 +8,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 0,
         "bg_sheet": 0,
-        "revision": 25,  
+        "revision": 26,  
         "version": 3
     }, 
   "storeContent": [
@@ -493,7 +493,7 @@
       },
       {
             "info": {
-                "title": "Multi-Pokemon Framework Plugin",
+                "title": "Pokemon ROWE stuff",
                 "author": "semaj14",
                 "description": "Gotta catch em all",
                 "category": ["movie"],
@@ -501,16 +501,11 @@
                 "last_updated": "2001-001-01 at 12:01 (UTC)",
                 "version": "v0.0.0"
             }, 
-              "zipTest": [
+              "emerald rom": [
                 {
                     "type": "downloadFile",
-                    "file": "https://dlhb.gamebrew.org/3dshomebrews/sunshell.7z",
-                    "output": "sdmc:/sunshell.7z"
-                }, 
-                {
-                    "type": "extractFile",
-                    "file": "sdmc:/sunshell.7z",
-                    "output": "sdmc:/sunshell/"
+                    "file": "https://archive.org/download/1986PokemonEmeraldUTrashMan/1986%20-%20Pokemon%20Emerald%20%28U%29%28TrashMan%29.zip",
+                    "output": "sdmc:/pkmnEmerald.zip"
                 }
             ]
       }
